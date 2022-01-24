@@ -1,0 +1,15 @@
+.profile {
+  display: flex;
+  margin: 20px 100px;
+  padding: 20px;
+  border: 2px solid lightgray;
+  justify-content: space-around;
+}
+.info {
+  margin: 20px;
+}
+.pic {
+  img {
+    width: 300px;
+  }
+}

@@ -1,0 +1,19 @@
+.profile {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 20px 100px;
+  padding: 20px;
+  border: 2px solid lightgray;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.info {
+  margin: 20px;
+}
+
+.pic img {
+  width: 300px;
+}
+/*# sourceMappingURL=Profile.css.map */

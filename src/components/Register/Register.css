@@ -1,0 +1,76 @@
+.register {
+  text-align: center;
+}
+
+.registrationForm {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 0 30%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.registrationForm .name {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 5px 0;
+}
+
+.registrationForm .email {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 5px 0;
+}
+
+.registrationForm .password {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 5px 0;
+}
+
+.registrationForm .cpassword {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 5px 0;
+}
+
+.registrationForm button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #4fbdba;
+  border: 1px solid #35858b;
+  cursor: pointer;
+  margin: 20px 10px;
+  color: white;
+}
+
+.login-feature {
+  text-align: center;
+  margin: 20px 10px;
+}
+
+.login-feature button {
+  padding: 10px 20px;
+  background-color: #11468f;
+  font-size: 20px;
+  color: white;
+  border: 1px solid #35858b;
+  cursor: pointer;
+}
+/*# sourceMappingURL=Register.css.map */

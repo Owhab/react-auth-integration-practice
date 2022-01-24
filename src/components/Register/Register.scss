@@ -1,0 +1,52 @@
+.register {
+  text-align: center;
+}
+.registrationForm {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 0 30%;
+  border-radius: 10px;
+  font-size: 20px;
+  .name {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  .email {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  .password {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  .cpassword {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #4fbdba;
+    border: 1px solid #35858b;
+    cursor: pointer;
+    margin: 20px 10px;
+    color: white;
+  }
+}
+
+.login-feature {
+  text-align: center;
+  margin: 20px 10px;
+  button {
+    padding: 10px 20px;
+    background-color: #11468f;
+    font-size: 20px;
+    color: white;
+    border: 1px solid #35858b;
+    cursor: pointer;
+  }
+}
